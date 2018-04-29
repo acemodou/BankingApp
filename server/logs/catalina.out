@@ -473,3 +473,44 @@ Caused by: org.apache.catalina.LifecycleException: A child container failed duri
 28-Apr-2018 17:15:47.303 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 28-Apr-2018 17:15:47.313 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
 28-Apr-2018 17:15:47.315 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1275 ms
+28-Apr-2018 19:19:17.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.30
+28-Apr-2018 19:19:17.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 20:04:09 UTC
+28-Apr-2018 19:19:17.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.30.0
+28-Apr-2018 19:19:17.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+28-Apr-2018 19:19:17.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.4.0-121-generic
+28-Apr-2018 19:19:17.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Apr-2018 19:19:17.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+28-Apr-2018 19:19:17.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_162-8u162-b12-0ubuntu0.16.04.2-b12
+28-Apr-2018 19:19:17.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+28-Apr-2018 19:19:17.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/muhajirun/Documents/workspace/Banking/BankingApp/server
+28-Apr-2018 19:19:17.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/muhajirun/Documents/workspace/Banking/BankingApp/server
+28-Apr-2018 19:19:17.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/muhajirun/Documents/workspace/Banking/BankingApp/server/conf/logging.properties
+28-Apr-2018 19:19:17.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Apr-2018 19:19:17.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Apr-2018 19:19:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Apr-2018 19:19:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+28-Apr-2018 19:19:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Apr-2018 19:19:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/muhajirun/Documents/workspace/Banking/BankingApp/server
+28-Apr-2018 19:19:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/muhajirun/Documents/workspace/Banking/BankingApp/server
+28-Apr-2018 19:19:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/muhajirun/Documents/workspace/Banking/BankingApp/server/temp
+28-Apr-2018 19:19:17.342 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+28-Apr-2018 19:19:17.431 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Apr-2018 19:19:17.445 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Apr-2018 19:19:17.453 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+28-Apr-2018 19:19:17.455 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Apr-2018 19:19:17.457 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 600 ms
+28-Apr-2018 19:19:17.511 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Apr-2018 19:19:17.511 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.30
+28-Apr-2018 19:19:17.525 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/docs]
+28-Apr-2018 19:19:17.909 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/docs] has finished in [383] ms
+28-Apr-2018 19:19:17.909 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/ROOT]
+28-Apr-2018 19:19:17.935 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/ROOT] has finished in [26] ms
+28-Apr-2018 19:19:17.935 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/host-manager]
+28-Apr-2018 19:19:17.970 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/host-manager] has finished in [35] ms
+28-Apr-2018 19:19:17.970 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/examples]
+28-Apr-2018 19:19:18.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/examples] has finished in [348] ms
+28-Apr-2018 19:19:18.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/manager]
+28-Apr-2018 19:19:18.348 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/muhajirun/Documents/workspace/Banking/BankingApp/server/webapps/manager] has finished in [30] ms
+28-Apr-2018 19:19:18.353 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Apr-2018 19:19:18.363 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+28-Apr-2018 19:19:18.365 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 908 ms
