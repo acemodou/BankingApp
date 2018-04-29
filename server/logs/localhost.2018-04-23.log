@@ -1,0 +1,1466 @@
+23-Apr-2018 20:00:41.562 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-Apr-2018 20:00:41.563 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-Apr-2018 20:00:41.565 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5606f953')
+23-Apr-2018 20:01:30.655 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.util.Map cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Throwable cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.util.Set cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Exception cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.io.IOException cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Class cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.String cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Long cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The hierarchy of the type index_jsp is inconsistent
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The hierarchy of the type index_jsp is inconsistent
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type index_jsp must implement the inherited abstract method JspSourceDependent.getDependants()
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type index_jsp must implement the inherited abstract method JspSourceImports.getPackageImports()
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type index_jsp must implement the inherited abstract method JspSourceImports.getClassImports()
+
+An error occurred at line: [22] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Map cannot be resolved to a type
+
+An error occurred at line: [22] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [22] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.Long cannot be resolved to a type
+
+An error occurred at line: [24] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [24] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [26] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [26] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [29] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved to a variable
+
+An error occurred at line: [29] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.HashSet cannot be resolved to a type
+
+An error occurred at line: [30] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved
+
+An error occurred at line: [31] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved
+
+An error occurred at line: [32] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved
+
+An error occurred at line: [33] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_classes cannot be resolved to a variable
+
+An error occurred at line: [39] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Map cannot be resolved to a type
+
+An error occurred at line: [39] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [39] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.Long cannot be resolved to a type
+
+An error occurred at line: [40] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_dependants cannot be resolved to a variable
+
+An error occurred at line: [43] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [43] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [44] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved to a variable
+
+An error occurred at line: [47] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [47] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [48] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_classes cannot be resolved to a variable
+
+An error occurred at line: [55] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getServletConfig() is undefined for the type index_jsp
+
+An error occurred at line: [66] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getServletConfig() is undefined for the type index_jsp
+
+An error occurred at line: [80] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.io.IOException cannot be resolved to a type
+
+An error occurred at line: [80] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+No exception of type ServletException can be thrown; an exception type must be a subclass of Throwable
+
+An error occurred at line: [82] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [82] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getMethod() from the type HttpServletRequest refers to the missing type String
+
+An error occurred at line: [83] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Enum cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [83] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method equals(DispatcherType) is undefined for the type DispatcherType
+
+An error occurred at line: [84] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method sendError(int, String) from the type HttpServletResponse refers to the missing type String
+
+An error occurred at line: [92] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.Object cannot be resolved to a type
+
+An error occurred at line: [98] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method setContentType(String) from the type ServletResponse refers to the missing type String
+
+An error occurred at line: [99] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getPageContext(Servlet, ServletRequest, ServletResponse, String, boolean, int, boolean) from the type JspFactory refers to the missing type String
+
+An error occurred at line: [16] in the jsp file: [/index.jsp]
+The type java.io.Writer cannot be resolved. It is indirectly referenced from required .class files
+13: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14: See the License for the specific language governing permissions and
+15: limitations under the License.
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+
+
+An error occurred at line: [16] in the jsp file: [/index.jsp]
+The method write(char) is undefined for the type JspWriter
+13: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14: See the License for the specific language governing permissions and
+15: limitations under the License.
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+
+
+An error occurred at line: [16] in the jsp file: [/index.jsp]
+The method write(char) is undefined for the type JspWriter
+13: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14: See the License for the specific language governing permissions and
+15: limitations under the License.
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+
+
+An error occurred at line: [19] in the jsp file: [/index.jsp]
+java.text.SimpleDateFormat cannot be resolved to a type
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+
+
+An error occurred at line: [19] in the jsp file: [/index.jsp]
+java.text.SimpleDateFormat cannot be resolved to a type
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+
+
+An error occurred at line: [20] in the jsp file: [/index.jsp]
+java.util.Date cannot be resolved to a type
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+
+
+An error occurred at line: [21] in the jsp file: [/index.jsp]
+The method setAttribute(String, Object) from the type ServletRequest refers to the missing type String
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+
+
+An error occurred at line: [22] in the jsp file: [/index.jsp]
+The method setAttribute(String, Object) from the type ServletRequest refers to the missing type String
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+
+
+An error occurred at line: [23] in the jsp file: [/index.jsp]
+The method setAttribute(String, Object) from the type ServletRequest refers to the missing type String
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method getServerInfo() from the type ServletContext refers to the missing type String
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+Stacktrace:] with root cause
+ org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.util.Map cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Throwable cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.util.Set cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Exception cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.io.IOException cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Class cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.String cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [1] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Long cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The hierarchy of the type index_jsp is inconsistent
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The hierarchy of the type index_jsp is inconsistent
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type index_jsp must implement the inherited abstract method JspSourceDependent.getDependants()
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type index_jsp must implement the inherited abstract method JspSourceImports.getPackageImports()
+
+An error occurred at line: [15] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type index_jsp must implement the inherited abstract method JspSourceImports.getClassImports()
+
+An error occurred at line: [22] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Map cannot be resolved to a type
+
+An error occurred at line: [22] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [22] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.Long cannot be resolved to a type
+
+An error occurred at line: [24] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [24] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [26] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [26] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [29] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved to a variable
+
+An error occurred at line: [29] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.HashSet cannot be resolved to a type
+
+An error occurred at line: [30] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved
+
+An error occurred at line: [31] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved
+
+An error occurred at line: [32] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved
+
+An error occurred at line: [33] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_classes cannot be resolved to a variable
+
+An error occurred at line: [39] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Map cannot be resolved to a type
+
+An error occurred at line: [39] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [39] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.Long cannot be resolved to a type
+
+An error occurred at line: [40] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_dependants cannot be resolved to a variable
+
+An error occurred at line: [43] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [43] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [44] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_packages cannot be resolved to a variable
+
+An error occurred at line: [47] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.util.Set cannot be resolved to a type
+
+An error occurred at line: [47] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [48] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+_jspx_imports_classes cannot be resolved to a variable
+
+An error occurred at line: [55] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getServletConfig() is undefined for the type index_jsp
+
+An error occurred at line: [66] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getServletConfig() is undefined for the type index_jsp
+
+An error occurred at line: [80] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.io.IOException cannot be resolved to a type
+
+An error occurred at line: [80] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+No exception of type ServletException can be thrown; an exception type must be a subclass of Throwable
+
+An error occurred at line: [82] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.String cannot be resolved to a type
+
+An error occurred at line: [82] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getMethod() from the type HttpServletRequest refers to the missing type String
+
+An error occurred at line: [83] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The type java.lang.Enum cannot be resolved. It is indirectly referenced from required .class files
+
+An error occurred at line: [83] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method equals(DispatcherType) is undefined for the type DispatcherType
+
+An error occurred at line: [84] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method sendError(int, String) from the type HttpServletResponse refers to the missing type String
+
+An error occurred at line: [92] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+java.lang.Object cannot be resolved to a type
+
+An error occurred at line: [98] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method setContentType(String) from the type ServletResponse refers to the missing type String
+
+An error occurred at line: [99] in the generated java file: [/home/muhajirun/Documents/workspace/UMN/4021/Lab2/apache-tomcat-8.5.30/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java]
+The method getPageContext(Servlet, ServletRequest, ServletResponse, String, boolean, int, boolean) from the type JspFactory refers to the missing type String
+
+An error occurred at line: [16] in the jsp file: [/index.jsp]
+The type java.io.Writer cannot be resolved. It is indirectly referenced from required .class files
+13: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14: See the License for the specific language governing permissions and
+15: limitations under the License.
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+
+
+An error occurred at line: [16] in the jsp file: [/index.jsp]
+The method write(char) is undefined for the type JspWriter
+13: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14: See the License for the specific language governing permissions and
+15: limitations under the License.
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+
+
+An error occurred at line: [16] in the jsp file: [/index.jsp]
+The method write(char) is undefined for the type JspWriter
+13: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14: See the License for the specific language governing permissions and
+15: limitations under the License.
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+
+
+An error occurred at line: [19] in the jsp file: [/index.jsp]
+java.text.SimpleDateFormat cannot be resolved to a type
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+
+
+An error occurred at line: [19] in the jsp file: [/index.jsp]
+java.text.SimpleDateFormat cannot be resolved to a type
+16: --%>
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+
+
+An error occurred at line: [20] in the jsp file: [/index.jsp]
+java.util.Date cannot be resolved to a type
+17: <%@ page session="false" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+
+
+An error occurred at line: [21] in the jsp file: [/index.jsp]
+The method setAttribute(String, Object) from the type ServletRequest refers to the missing type String
+18: <%
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+
+
+An error occurred at line: [22] in the jsp file: [/index.jsp]
+The method setAttribute(String, Object) from the type ServletRequest refers to the missing type String
+19: java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("yyyy");
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+
+
+An error occurred at line: [23] in the jsp file: [/index.jsp]
+The method setAttribute(String, Object) from the type ServletRequest refers to the missing type String
+20: request.setAttribute("year", sdf.format(new java.util.Date()));
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [24] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+21: request.setAttribute("tomcatUrl", "http://tomcat.apache.org/");
+22: request.setAttribute("tomcatDocUrl", "/docs/");
+23: request.setAttribute("tomcatExamplesUrl", "/examples/");
+24: %>
+25: <!DOCTYPE html>
+26: <html lang="en">
+27:     <head>
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method getServerInfo() from the type ServletContext refers to the missing type String
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [29] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+26: <html lang="en">
+27:     <head>
+28:         <meta charset="UTF-8" />
+29:         <title><%=request.getServletContext().getServerInfo() %></title>
+30:         <link href="favicon.ico" rel="icon" type="image/x-icon" />
+31:         <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+32:         <link href="tomcat.css" rel="stylesheet" type="text/css" />
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [38] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+35:     <body>
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [39] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+36:         <div id="wrapper">
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [40] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+37:             <div id="navigation" class="curved container">
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [41] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+38:                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
+39:                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [43] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+40:                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+java.lang.String cannot be resolved to a type
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+An error occurred at line: [44] in the jsp file: [/index.jsp]
+The method write(String) is undefined for the type JspWriter
+41:                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+42:                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
+43:                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
+44:                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
+45:                 <br class="separator" />
+46:             </div>
+47:             <div id="asf-box">
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:212)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:457)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:379)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:351)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:335)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:595)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(java.base@9-internal/ThreadPoolExecutor.java:1158)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(java.base@9-internal/ThreadPoolExecutor.java:632)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(java.base@9-internal/Thread.java:804)
+
+23-Apr-2018 20:06:28.754 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-Apr-2018 20:06:28.754 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+23-Apr-2018 20:07:13.745 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-Apr-2018 20:07:13.745 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-Apr-2018 20:07:13.747 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@502542a3')
+23-Apr-2018 20:07:50.357 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-Apr-2018 20:07:50.357 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
