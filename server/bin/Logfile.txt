@@ -1,0 +1,16 @@
+ Modou Created Saving Account With Account ID Sav111 18/05/05 16:22:28
+ Modou Created Saving Account With Account ID Sav111 18/05/05 16:39:14
+ Modu Created Saving Account With Account ID Sav111 18/05/05 16:50:26
+King Created Saving Account With Account ID Sav111 18/05/05 16:50:44
+ Modu Created Saving Account With Account ID Sav111 18/05/05 17:26:16
+Modou Created Saving Account With Account ID Sav111 18/05/05 18:21:38
+ Mak Created Checking Account With Account ID Che222 18/05/05 18:22:17
+modou Created Saving Account With Account ID Sav111 18/05/05 18:27:35
+modou Created Saving Account With Account ID Sav111 18/05/05 18:28:34
+modou Opened New Business Account With Account ID Bus111 18/05/05 18:29:13
+ Modou Created Saving Account With Account ID Sav111 18/05/05 19:39:25
+ Modou Opened New Business Account With Account ID Bus222 18/05/05 19:39:35
+ Modou Withdrawn Money Of Amount 5000 From Sav111 18/05/05 19:39:47
+ Modou Deposited Money Of Amount 10000 To Sav111 18/05/05 19:40:28
+ Modou Opened New Checking Account With Account ID Che111 18/05/05 19:40:42
+ Modou Withdrawn Money Of Amount 5000 From Sav111 18/05/05 19:40:52
